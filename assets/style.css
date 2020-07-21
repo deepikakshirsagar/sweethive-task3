@@ -1,7 +1,9 @@
 .wrapper {
     width: 90%;
     margin: 10px auto;
+    text-align: center;
 }
+
 
 .hide {
     display: none;
@@ -17,7 +19,7 @@
 }
 
 img {
-    max-width: 500px;
+    max-width: 420px;
     margin: 10px;
 }
 
