@@ -13,8 +13,6 @@
     // options
     });
 
-    // elem.imagesLoaded(function() {msnry})
-
     
     function loadImages(city) {
         var url = 'https://api.flickr.com/services/rest/?method=flickr.photos.search&api_key=83f5c38d8918bc20e9298c812fbd9314&tags='+city+'&per_page=10&format=json&nojsoncallback=1';
@@ -67,10 +65,6 @@
 
                 
             });
-
-            
-
-            
         })
     }
 
